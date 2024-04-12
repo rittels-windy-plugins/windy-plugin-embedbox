@@ -2,8 +2,8 @@ import type { ExternalPluginConfig } from '@windy/interfaces';
 
 const config: ExternalPluginConfig = {
     name: 'windy-plugin-embedbox',
-    version: '0.1.0',
-    icon: '0',
+    version: '0.1.1',
+    icon: '📦',
     title: 'Embedded box',
     description: 'Show HTML in embedded box',
     author: 'Rittels',
