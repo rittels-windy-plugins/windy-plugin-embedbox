@@ -120,5 +120,5 @@
 </script>
 
 <style lang="less">
-    @import 'embedbox.less?1712475024062';
+    @import 'embedbox.less?1712912321226';
 </style>

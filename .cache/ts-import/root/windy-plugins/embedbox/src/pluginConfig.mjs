@@ -1,11 +1,11 @@
 const config = {
     name: 'windy-plugin-embedbox',
     version: '0.1.0',
-    icon: '🔌',
+    icon: '0',
     title: 'Embedded box',
     description: 'Show HTML in embedded box',
     author: 'Rittels',
-    repository: 'xxx',
+    repository: 'github.com/rittels-windy-plugins/windy-plugin-embedbox.git',
     desktopUI: 'embedded',
     mobileUI: 'small',
     //routerPath: '/my-plugin',
